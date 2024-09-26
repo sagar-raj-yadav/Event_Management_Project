@@ -1,5 +1,9 @@
 
 
+https://github.com/user-attachments/assets/7847b92e-d95b-435a-8936-7a88a85e4282
+
+
+
 # Event Booking App
 A simple mobile application built with React Native that allows users to browse events, 
 view details, and book tickets. This project showcases an understanding of React Native,
